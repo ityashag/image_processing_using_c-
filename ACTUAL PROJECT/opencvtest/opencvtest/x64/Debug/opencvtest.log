@@ -1,0 +1,17 @@
+﻿  opencvtest.cpp
+D:\opencvtest\opencvtest\opencvtest.cpp(28,115): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\opencvtest\opencvtest\opencvtest.cpp(67,123): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+D:\opencvtest\opencvtest\opencvtest.cpp(88,115): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=uchar
+          ]
+  opencvtest.vcxproj -> D:\opencvtest\x64\Debug\opencvtest.exe
